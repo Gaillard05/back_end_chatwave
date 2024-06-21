@@ -1,0 +1,11 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type OkResponse {
+  result: String!
+}
+
+type Query {
+  getOk: OkResponse!
+}
